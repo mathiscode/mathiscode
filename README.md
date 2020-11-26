@@ -10,7 +10,7 @@
 
 | Stats |     | Languages |
 | ----- | --- | --------- |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) | | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiscode&theme=blue-green) |
+| [![Stats](https://github-readme-stats.vercel.app/api?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) | | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) |
 
 ---
 
