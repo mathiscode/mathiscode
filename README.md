@@ -5,8 +5,10 @@
 ![Views](https://gpvc.arturio.dev/mathiscode)
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathiscode?tab=followers)
 
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![Winter is Coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![Uses Badges](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+
+---
 
 | Stats |     | Languages |
 | ----- | --- | --------- |
