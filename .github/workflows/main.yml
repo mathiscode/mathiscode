@@ -15,8 +15,7 @@ jobs:
           # 🧱 Core
           token: ${{ secrets.METRICS_TOKEN }} # Your GitHub token
           user: mathiscode
-          # repo: loganbek # for repo specific metrics
-          template: classic
+          template: terminal
           # 🗃️ Base content
           base: topics, header, activity, achievements, community, music #, repositories, metadata
           # extra_css: # TODO inject css rules
