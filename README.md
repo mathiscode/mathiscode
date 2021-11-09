@@ -10,14 +10,22 @@
 
 ---
 
-| Stats |     | Languages |
-| ----- | --- | --------- |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) | | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) |
-
----
 
 📫 [code@mathis.network](mailto:code@mathis.network)
 
 🔗 [Upwork](https://mathis.network/upwork)
 
 🔗 [LinkedIn](https://mathis.network/linkedin)
+
+---
+
+| Stats |     | Languages |
+| ----- | --- | --------- |
+| [![Stats](https://github-readme-stats.vercel.app/api?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) | | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiscode&theme=blue-green)](https://github.com/mathiscode) |
+
+---
+
+![Metrics](https://github.com/mathiscode/mathiscode/blob/master/github-metrics.svg)
+
+---
+
