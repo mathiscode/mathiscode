@@ -15,7 +15,7 @@ jobs:
           # 🧱 Core
           token: ${{ secrets.METRICS_TOKEN }} # Your GitHub token
           user: mathiscode
-          template: terminal
+          template: classic
           # 🗃️ Base content
           base: topics, header, activity, achievements, community, music #, repositories, metadata
           # extra_css: # TODO inject css rules
