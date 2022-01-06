@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathiscode?tab=followers)
 
 <!-- [![Winter is Coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://github.com/mathiscode) -->
-[![Uses Badges](https://forthebadge.com/images/badges/uses-badges.svg)](https://github.com/mathiscode)
+<!-- [![Uses Badges](https://forthebadge.com/images/badges/uses-badges.svg)](https://github.com/mathiscode) -->
 
 ---
 
