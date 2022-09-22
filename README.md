@@ -2,6 +2,8 @@
 
 👨‍🎓💻 An independent consultant specializing in web-app development, with 💗 for the MERN stack.
 
+> Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org))
+
 <!-- ![Views](https://gpvc.arturio.dev/mathiscode) -->
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathiscode?tab=followers)
 
