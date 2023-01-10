@@ -1,6 +1,6 @@
-# Jay Mathis
+# Jay Mathis 🛠️💻🖥️👨‍💻👨‍🎓 
 
-👨‍🎓💻 An independent consultant specializing in web-app development
+A monkey that makes lights blink however he wants.
 
 > Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org))
 
@@ -19,8 +19,6 @@
 🔗 [LinkedIn](https://mathis.network/linkedin)
 
 ---
-
-🛠️💻🖥️👨‍💻👨‍🎓
 
 [EDUCATION]
 - Western Governors University, Bachelor of Science, Software Development
