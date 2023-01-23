@@ -36,10 +36,10 @@ A monkey that makes lights blink however he wants.
 
 ---
 
-[EDUCATION]
+# [EDUCATION]
 - Western Governors University, Bachelor of Science, Software Development
 
-[CERTIFICATIONS]
+# [CERTIFICATIONS]
 - CIW User Interface Designer
 - CIW Site Development Associate
 - CIW Advanced HTML5 & CSS3 Specialist
@@ -47,7 +47,7 @@ A monkey that makes lights blink however he wants.
 - CompTIA Project+
 - ITIL v4 Foundation
 
-[HIGHLIGHTS]
+# [HIGHLIGHTS]
 - 25 years Linux experience
 - 11 years Node.js experience
 - 11 years MongoDB experience
@@ -71,7 +71,7 @@ A monkey that makes lights blink however he wants.
 - 10 years Cryptocurrency experience
     - (with the ability to setup Bitcoin/other crypto payment services for ecommerce)
 
-[DEVOPS]
+# [DEVOPS]
 - AWS
 - Digital Ocean
 - Heroku
@@ -90,7 +90,7 @@ A monkey that makes lights blink however he wants.
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=mathiscode&theme=onedark&column=-1" />
+        <img src="https://github-profile-trophy.vercel.app/?username=mathiscode&theme=onedark&column=-1&rank=-C" />
     </a>
 </p>
 
