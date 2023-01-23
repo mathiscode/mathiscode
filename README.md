@@ -36,10 +36,10 @@ A monkey that makes lights blink however he wants.
 
 ---
 
-# [EDUCATION]
+# &lt;EDUCATION /&gt;
 - Western Governors University, Bachelor of Science, Software Development
 
-# [CERTIFICATIONS]
+# &lt;CERTIFICATIONS /&gt;
 - CIW User Interface Designer
 - CIW Site Development Associate
 - CIW Advanced HTML5 & CSS3 Specialist
@@ -47,7 +47,7 @@ A monkey that makes lights blink however he wants.
 - CompTIA Project+
 - ITIL v4 Foundation
 
-# [HIGHLIGHTS]
+# &lt;HIGHLIGHTS /&gt;
 - 25 years Linux experience
 - 11 years Node.js experience
 - 11 years MongoDB experience
@@ -71,7 +71,7 @@ A monkey that makes lights blink however he wants.
 - 10 years Cryptocurrency experience
     - (with the ability to setup Bitcoin/other crypto payment services for ecommerce)
 
-# [DEVOPS]
+# &lt;DEVOPS /&gt;
 - AWS
 - Digital Ocean
 - Heroku
