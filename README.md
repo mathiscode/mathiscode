@@ -40,6 +40,7 @@ A monkey that makes lights blink however he wants.
 
 # &lt;EDUCATION /&gt;
 - Western Governors University, Bachelor of Science, Software Development
+- Obsession that started with BASIC on the TRS-80 in 1992
 
 # &lt;CERTIFICATIONS /&gt;
 - CIW User Interface Designer
