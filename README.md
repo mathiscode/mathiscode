@@ -52,10 +52,10 @@ A monkey that makes lights blink however he wants.
 
 # &lt;HIGHLIGHTS /&gt;
 - 25 years Linux experience
-- 11 years Node.js experience
-- 11 years MongoDB experience
-- 14 years frontend experience
-    - (to include vanilla, React, Vue, jQueryUI, and other frontend frameworks)
+- 15 years Javascript experience
+    - (to include vanilla, Node.js, React, Vue, jQuery, and other frameworks/libraries)
+- 15 years database experience
+    - (to include MySQL, SQLite, Postgres, MongoDB, CouchDB, Redis, Firebase Firestore/RTDB, and other database technologies)
 - 13 years customer service experience
 - 11 years small business management/accounting/bookkeeping experience
 - 3 years dapp/web3/nft/smart contract experience
