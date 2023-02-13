@@ -56,6 +56,7 @@ A monkey that makes lights blink however he wants.
     - (to include vanilla, Node.js, React, Vue, jQuery, and other frameworks/libraries)
 - 15 years database experience
     - (to include MySQL, SQLite, Postgres, MongoDB, CouchDB, Redis, Firebase Firestore/RTDB, and other database technologies)
+- 3 years Typescript experience
 - 13 years customer service experience
 - 11 years small business management/accounting/bookkeeping experience
 - 3 years dapp/web3/nft/smart contract experience
