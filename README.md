@@ -1,7 +1,5 @@
 # Jay Mathis 🛠️💻🖥️👨‍💻👨‍🎓 
 
-*Hillbilly Hacker, Country Coder, Podunk Programmer, Redneck Rustacean*
-
 A monkey that makes lights blink however he wants.
 
 > Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org))
