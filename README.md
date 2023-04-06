@@ -4,6 +4,8 @@ A monkey that makes lights blink however he wants.
 
 > Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org))
 
+> Author of [imagined.quest](https://imagined.quest)
+
 <!-- ![Views](https://gpvc.arturio.dev/mathiscode) -->
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathiscode?tab=followers)
 
