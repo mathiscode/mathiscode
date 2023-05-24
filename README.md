@@ -52,25 +52,24 @@ A monkey that makes lights blink however he wants.
 
 # &lt;HIGHLIGHTS /&gt;
 - 25 years Linux experience
-- 15 years Javascript experience
-    - (to include vanilla, Node.js, React, Vue, jQuery, and other frameworks/libraries)
+- 20 years HTML/CSS/Javascript experience
+    - (to include vanilla, Typescript, Node.js, Deno, React, Vue, Svelte, Angular, jQuery, and other frameworks/libraries)
 - 15 years database experience
     - (to include MySQL, SQLite, Postgres, MongoDB, CouchDB, Redis, Firebase Firestore/RTDB, and other database technologies)
-- 3 years Typescript experience
+- 15 years API integration experience
+    - (to include REST, SOAP, GraphQL, and other API technologies)
 - 13 years customer service experience
 - 11 years small business management/accounting/bookkeeping experience
 - 3 years dapp/web3/nft/smart contract experience
 - 1 year Deno experience
 - 7 years Bootstrap experience
-- 3 years Material experience
-- 13 years WHM/cPanel experience
-- 3 years DevOps and CI/CD experience
+- 4 years Material experience
+- 14 years WHM/cPanel experience
+- 6 years DevOps and CI/CD experience
     - (including AWS, DigitalOcean, Netlify, Firebase, Fleek)
 - 13 years PHP experience
-    - (including CMS such as Concrete5, Wordpress, Drupal, and Joomla)
-- 4 years Woocommerce experience
-    - (also worked with various ecommerce platforms such as OScommerce)
-- 13 years payment-integration
+    - (including CMS such as Wordpress, Concrete5, Drupal, and Joomla)
+- 13 years payment-integration experience
     - (such as Paypal, Stripe, 2Checkout, Authorize.net, etc)
 - 10 years Cryptocurrency experience
     - (with the ability to setup Bitcoin/other crypto payment services for ecommerce)
