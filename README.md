@@ -1,8 +1,10 @@
 # Jay Mathis 🛠️💻🖥️👨‍💻👨‍🎓 
 
-A monkey that makes lights blink however he wants.
+A monkey that makes lights blink.
 
-> Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org))
+> Author of [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
+
+> Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel))
 
 > Author of [imagined.quest](https://imagined.quest)
 
