@@ -63,7 +63,6 @@ A monkey that makes lights blink.
 - 13 years customer service experience
 - 11 years small business management/accounting/bookkeeping experience
 - 3 years dapp/web3/nft/smart contract experience
-- 1 year Deno experience
 - 7 years Bootstrap experience
 - 4 years Material experience
 - 14 years WHM/cPanel experience
