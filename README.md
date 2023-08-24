@@ -2,17 +2,14 @@
 
 A monkey that makes lights blink.
 
-> Author of [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
-
-> Author of [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel))
-
-> Author of [imagined.quest](https://imagined.quest)
-
-<!-- ![Views](https://gpvc.arturio.dev/mathiscode) -->
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathiscode?tab=followers)
 
-<!-- [![Winter is Coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://github.com/mathiscode) -->
-<!-- [![Uses Badges](https://forthebadge.com/images/badges/uses-badges.svg)](https://github.com/mathiscode) -->
+Author of:
+- [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
+- [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel))
+- [WhoGoverns.me](https://whogoverns.me) ([github](https://github.com/mathiscode/whogoverns.me))
+- [imagined.quest](https://imagined.quest)
+- [codebase-scanner](https://github.com/mathiscode/codebase-scanner#readme)
 
 ---
 
