@@ -2,7 +2,7 @@
 
 A monkey that makes lights blink.
 
-[![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mathiscode?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=2592000&r=123891092)](https://github.com/mathiscode?tab=followers)
 
 Author of:
 - [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
