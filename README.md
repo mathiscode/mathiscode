@@ -49,6 +49,16 @@ Author of:
 - CompTIA Project+
 - ITIL v4 Foundation
 
+# &lt;CLIENTS /&gt;
+- Beyondware.com
+- DatasheetSolutions.com
+- NFTWorld.io
+- MetaverseChat.io
+- JewishMusic.fm
+- Design Emporium, LLC
+- National Young Farmer's Coalition
+- and other miscellaneous clients/projects
+
 # &lt;HIGHLIGHTS /&gt;
 - 25 years Linux experience
 - 20 years HTML/CSS/Javascript experience
