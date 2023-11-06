@@ -27,6 +27,8 @@ Author of:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb" />
   </a>
+  <br />
+  <strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, Express.js, MongoDB</strong>
 </p>
 
 <p align="center"><strong>Skills &amp; Interests</strong></p>
@@ -61,15 +63,18 @@ Author of:
 - and other miscellaneous clients/projects
 
 # &lt;HIGHLIGHTS /&gt;
+- 30 years tinkering experience
 - 25 years Linux experience
 - 20 years HTML/CSS/Javascript experience
-    - (to include vanilla, Typescript, Node.js, Deno, React, Vue, Svelte, Angular, jQuery, and other frameworks/libraries)
+    - (to include vanilla, Typescript, Node.js, Deno, React, React Native, Vue, Svelte, Angular, jQuery, and other frameworks/libraries)
 - 15 years database experience
     - (to include MySQL, SQLite, Postgres, MongoDB, CouchDB, Redis, Firebase Firestore/RTDB, and other database technologies)
 - 15 years API integration experience
     - (to include REST, SOAP, GraphQL, and other API technologies)
-- 13 years customer service experience
-- 11 years small business management/accounting/bookkeeping experience
+- 4 years Python experience
+- 2 years C#/.NET Experience
+- 1 year Kotlin experience
+- 1 year Flutter experience
 - 3 years dapp/web3/nft/smart contract experience
 - 7 years Bootstrap experience
 - 4 years Material experience
@@ -82,6 +87,8 @@ Author of:
     - (such as Paypal, Stripe, 2Checkout, Authorize.net, etc)
 - 10 years Cryptocurrency experience
     - (with the ability to setup Bitcoin/other crypto payment services for ecommerce)
+- 13 years customer service experience
+- 11 years small business management/accounting/bookkeeping experience
 
 # &lt;DEVOPS /&gt;
 - AWS
