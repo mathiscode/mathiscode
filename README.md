@@ -55,6 +55,7 @@ Author of:
 
 # &lt;CLIENTS /&gt;
 - Beyondware.com
+- Sizle.io
 - DatasheetSolutions.com
 - Design Emporium, LLC
 - National Young Farmer's Coalition
