@@ -61,6 +61,9 @@ Author of:
 - DatasheetSolutions.com
 - Design Emporium, LLC
 - National Young Farmer's Coalition
+- Cybersemics Institute
+- Politarian.com
+- ThadShaw.com
 - JewishMusic.fm
 - NFTWorld.io
 - MetaverseChat.io
