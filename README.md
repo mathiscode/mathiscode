@@ -9,6 +9,7 @@ A monkey that makes lights blink.
 Author of:
 - [AIGE: AI Game Engine](https://aige.games) ([github](https://github.com/mathiscode/aige))
 - [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
+- [AI Kernel Explorer](https://pypi.org/project/ai-kernel-explorer/) ([github](https://github.com/mathiscode/ai-kernel-explorer))
 - [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel))
 - [WhoGoverns.me](https://whogoverns.me) ([github](https://github.com/mathiscode/whogoverns.me))
 - [imagined.quest](https://imagined.quest)
