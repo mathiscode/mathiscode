@@ -62,7 +62,6 @@ Author of:
 - National Young Farmer's Coalition
 - Cybersemics Institute
 - Politarian.com
-- ThadShaw.com
 - JewishMusic.fm
 - NFTWorld.io
 - MetaverseChat.io
