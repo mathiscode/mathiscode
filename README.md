@@ -7,7 +7,7 @@ A monkey that makes lights blink.
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/mathiscode?tab=followers)
 
 Author of:
-- [ecmaOS](https://ecmaos.sh) ([github](https://github.com/mathiscode/aige))
+- [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos))
 - [AIGE: AI Game Engine](https://aige.games) ([github](https://github.com/mathiscode/aige))
 - [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
 - [AI Kernel Explorer](https://pypi.org/project/ai-kernel-explorer/) ([github](https://github.com/mathiscode/ai-kernel-explorer))
