@@ -21,9 +21,9 @@ Author of:
 
 📫 [code@mathis.network](mailto:code@mathis.network)
 
-🔗 [Upwork](https://mathis.network/upwork)
+🔗 [Upwork](https://www.upwork.com/freelancers/jrmathis)
 
-🔗 [LinkedIn](https://mathis.network/linkedin)
+🔗 [LinkedIn](https://www.linkedin.com/in/jrmathis)
 
 ---
 
