@@ -56,7 +56,7 @@ Author of:
 - ITIL v4 Foundation
 
 # &lt;CLIENTS /&gt;
-- Accelint.com
+- SIECompany.com
 - BeyondCAD.com
 - Sizle.io
 - DatasheetSolutions.com
