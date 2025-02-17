@@ -19,6 +19,7 @@ Author of:
 - [imagined.quest](https://imagined.quest)
 - [codebase-scanner](https://github.com/mathiscode/codebase-scanner#readme)
 - [password-leak](https://www.npmjs.com/package/@mathiscode/password-leak#readme) ([github](https://github.com/mathiscode/password-leak))
+- [vscode-remember-desktops](https://github.com/mathiscode/vscode-remember-desktops) ([github](https://github.com/mathiscode/vscode-remember-desktops))
 
 ---
 
