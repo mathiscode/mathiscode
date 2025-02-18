@@ -92,30 +92,17 @@ Author of:
 # &lt;HIGHLIGHTS /&gt;
 
 - 30 years tinkering experience
-- 25 years Linux experience
-- 20 years HTML/CSS/Javascript experience
-  - (to include vanilla, Typescript, Node.js, Deno, React, React Native, Vue, Svelte, Angular, jQuery, and other frameworks/libraries)
-- 15 years database experience
+- 28 years Linux experience
+- 26 years HTML/CSS/Javascript experience
+  - (to include vanilla, Typescript, Node.js, Deno, React, Vue, Svelte, Angular, jQuery, and other frameworks/libraries)
+- 24 years database experience
   - (to include MySQL, SQLite, Postgres, MongoDB, CouchDB, Redis, Firebase Firestore/RTDB, and other database technologies)
-- 15 years API integration experience
+- 16 years API integration experience
   - (to include REST, SOAP, GraphQL, and other API technologies)
-- 4 years Python experience
-- 2 years C#/.NET Experience
-- 1 year Kotlin experience
-- 1 year Flutter experience
-- 3 years dapp/web3/nft/smart contract experience
-- 7 years Bootstrap experience
-- 4 years Material experience
-- 14 years WHM/cPanel experience
-- 6 years DevOps and CI/CD experience
-  - (including AWS, DigitalOcean, Netlify, Firebase, Fleek)
-- 13 years PHP experience
+- 16 years PHP experience
   - (including CMS such as Wordpress, Concrete5, Drupal, and Joomla)
-- 13 years payment-integration experience
-  - (such as Paypal, Stripe, 2Checkout, Authorize.net, etc)
-- 11 years Cryptocurrency experience
-- 13 years customer service experience
-- 12 years small business management/accounting/bookkeeping experience
+- 16 years customer service experience
+- 14 years small business management/accounting/bookkeeping experience
 
 # &lt;DEVOPS /&gt;
 
