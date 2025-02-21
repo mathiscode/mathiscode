@@ -118,15 +118,6 @@ Author of:
 
 ---
 
-<p align="center"><strong>Preferred Stack</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="HTML5, CSS3, JavaScript, TypeScript, Node.js, React" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react" />
-  </a>
-  <br />
-  <strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, React</strong>
-</p>
-
 <p align="center"><strong>Familiar Technologies</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
