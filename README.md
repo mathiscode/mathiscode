@@ -10,6 +10,7 @@ A monkey that makes lights blink.
 
 Author of:
 
+- [Polis Machina](https://polismachina.com)
 - [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos))
 - [AIGE: AI Game Engine](https://aige.games) ([github](https://github.com/mathiscode/aige))
 - [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
