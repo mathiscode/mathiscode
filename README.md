@@ -119,6 +119,10 @@ Author of:
 
 ---
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
+
 <p align="center"><strong>Familiar Technologies</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
