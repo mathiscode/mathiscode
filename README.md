@@ -11,17 +11,17 @@ A monkey that makes lights blink.
 Author of:
 
 - [Polis Machina](https://polismachina.com)
-- [imagined.quest](https://imagined.quest)
+- [codebase-scanner](https://github.com/mathiscode/codebase-scanner#readme)
 - [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos))
 - [Gemini Dock](https://github.com/mathiscode/gemini-dock)
+- [vscode-remember-desktops](https://github.com/mathiscode/vscode-remember-desktops) ([github](https://github.com/mathiscode/vscode-remember-desktops))
+- [imagined.quest](https://imagined.quest)
 - [AIGE: AI Game Engine](https://aige.games) ([github](https://github.com/mathiscode/aige))
 - [WhoGoverns.me](https://whogoverns.me) ([github](https://github.com/mathiscode/whogoverns.me))
 - [AI Kernel Explorer](https://pypi.org/project/ai-kernel-explorer/) ([github](https://github.com/mathiscode/ai-kernel-explorer))
 - [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel))
 - [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
-- [codebase-scanner](https://github.com/mathiscode/codebase-scanner#readme)
 - [password-leak](https://www.npmjs.com/package/@mathiscode/password-leak#readme) ([github](https://github.com/mathiscode/password-leak))
-- [vscode-remember-desktops](https://github.com/mathiscode/vscode-remember-desktops) ([github](https://github.com/mathiscode/vscode-remember-desktops))
 - [fortunes-mechanicus](https://github.com/mathiscode/fortunes-mechanicus)
 
 ---
