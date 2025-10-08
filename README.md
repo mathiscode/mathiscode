@@ -2,6 +2,8 @@
 
 # Jay Mathis 🛠️💻🖥️👨‍💻👨‍🎓 
 
+![Upwork Stats](https://jaymath.is/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fupwork-stats.d7eb4c96.png&w=640&q=75)
+
 A monkey that makes lights blink.
 
 [https://jaymath.is](https://jaymath.is)
