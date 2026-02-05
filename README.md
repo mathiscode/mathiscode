@@ -2,11 +2,11 @@
 
 # Jay Mathis 🛠️💻🖥️👨‍💻👨‍🎓 
 
-![Upwork Stats](https://jaymath.is/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fupwork-stats.659bd444.png&w=1200&q=75)
-
 A monkey that makes lights blink.
 
 [https://jaymath.is](https://jaymath.is)
+
+![Upwork Stats](https://jaymath.is/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fupwork-stats.659bd444.png&w=1200&q=75)
 
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/mathiscode?tab=followers)
 
