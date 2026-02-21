@@ -12,18 +12,19 @@ A monkey that makes lights blink.
 
 Author of:
 
-- [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos))
-- [Polis Machina](https://polismachina.com)
-- [codebase-scanner](https://github.com/mathiscode/codebase-scanner#readme)
-- [Gemini Dock](https://github.com/mathiscode/gemini-dock)
-- [vscode-remember-desktops](https://github.com/mathiscode/vscode-remember-desktops) ([github](https://github.com/mathiscode/vscode-remember-desktops))
-- [imagined.quest](https://imagined.quest)
-- [AIGE: AI Game Engine](https://aige.games) ([github](https://github.com/mathiscode/aige))
-- [AI Kernel Explorer](https://pypi.org/project/ai-kernel-explorer/) ([github](https://github.com/mathiscode/ai-kernel-explorer))
-- [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel))
-- [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix))
-- [password-leak](https://www.npmjs.com/package/@mathiscode/password-leak#readme) ([github](https://github.com/mathiscode/password-leak))
-- [fortunes-mechanicus](https://github.com/mathiscode/fortunes-mechanicus)
+- [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos)) - Micro-kernel and framework for web technologies
+- [Polis Machina](https://polismachina.com) - AI-driven evolution of society, politics, and international relations
+- [Pucc](https://mathiscode.github.io/pucc/) ([github](https://github.com/mathiscode/pucc)) - Power User Console Component
+- [codebase-scanner](https://github.com/mathiscode/codebase-scanner#readme) - Scan a codebase for malware signatures
+- [Gemini Dock](https://github.com/mathiscode/gemini-dock) - An extensible Gemini server written in TypeScript
+- [vscode-remember-desktops](https://github.com/mathiscode/vscode-remember-desktops) ([github](https://github.com/mathiscode/vscode-remember-desktops)) - Restore your editor windows to their last workspace/virtual desktop on Linux
+- [imagined.quest](https://imagined.quest) - Unlimited Adventure
+- [AIGE](https://aige.games) ([github](https://github.com/mathiscode/aige)) - AI Game Engine
+- [AI Kernel Explorer](https://pypi.org/project/ai-kernel-explorer/) ([github](https://github.com/mathiscode/ai-kernel-explorer)) - Explore the Linux kernel source code with AI-generated summaries
+- [web3os](https://web3os.sh) ([github](https://github.com/web3os-org/kernel)) - (replaced by ecmaOS)
+- [Intellibrix](https://intellibrix.dev) ([github](https://github.com/intellibrix/intellibrix)) - AI-Powered Software Component Framework (needs modern love and attention)
+- [password-leak](https://www.npmjs.com/package/@mathiscode/password-leak#readme) ([github](https://github.com/mathiscode/password-leak)) - A library to check for compromised passwords
+- [fortunes-mechanicus](https://github.com/mathiscode/fortunes-mechanicus) - Adeptus Mechanicus quotes for fortune-mod
 - [WhoGoverns.me](https://whogoverns.me) ([github](https://github.com/mathiscode/whogoverns.me)) - **Not working with changes to the Google Civic API**
 
 ---
