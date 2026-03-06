@@ -10,6 +10,8 @@ A monkey that makes lights blink.
 
 [![GitHub followers](https://img.shields.io/github/followers/mathiscode.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/mathiscode?tab=followers)
 
+[![Stop Spam Followers](https://img.shields.io/badge/STOP%20SPAM%20FOLLOWERS-red?logo=github)](https://github.com/mathiscode/stop-spam-followers)
+
 Author of:
 
 - [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos)) - Micro-kernel and framework for web technologies
