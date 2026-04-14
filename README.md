@@ -62,7 +62,6 @@ Author of:
 
 # &lt;CERTIFICATIONS /&gt;
 
-<div style="background-color: #121212">
 <div align="center">
     <img src="https://jaymath.is/images/comptia-aplus.png" alt="CompTIA A+" width="150" height="150">
     <img src="https://jaymath.is/images/comptia-projectplus.png" alt="CompTIA Project+" width="150" height="150">
@@ -72,6 +71,8 @@ Author of:
 </div>
 
 # &lt;CLIENTS /&gt;
+
+<p><small>Note: Some of these logos don't appear correctly in Github light mode</small></p>
 
 <div align="center">
     <img src="https://jaymath.is/images/sie.png" alt="SIECompany.com" width="170">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,7 +98,6 @@ Author of:
 <p align="center">
     <a href="https://jaymath.is">See more</a>
 </p>
-</div>
 
 # &lt;HIGHLIGHTS /&gt;
 
