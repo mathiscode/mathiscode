@@ -14,6 +14,7 @@ A monkey that makes lights blink.
 
 Author of:
 
+- [Initfinity](https://initfinity.io) - Highly customizable collaborative automation workspace entirely in the browser
 - [ecmaOS](https://ecmaos.sh) ([github](https://github.com/ecmaos/ecmaos)) - Micro-kernel and framework for web technologies
 - [Polis Machina](https://polismachina.com) - AI-driven evolution of society, politics, and international relations
 - [Pucc](https://mathiscode.github.io/pucc/) ([github](https://github.com/mathiscode/pucc)) - Power User Console Component
