@@ -103,29 +103,25 @@ Author of:
 
 # &lt;HIGHLIGHTS /&gt;
 
-- 30 years tinkering experience
-- 28 years Linux experience
-- 26 years HTML/CSS/Javascript experience
-  - (to include vanilla, Typescript, Node.js, Deno, React, Vue, Svelte, Angular, jQuery, and other frameworks/libraries)
-- 24 years database experience
-  - (to include MySQL, SQLite, Postgres, MongoDB, CouchDB, Redis, Firebase Firestore/RTDB, and other database technologies)
-- 16 years API integration experience
-  - (to include REST, SOAP, GraphQL, and other API technologies)
-- 16 years PHP experience
-  - (including CMS such as Wordpress, Concrete5, Drupal, and Joomla)
-- 16 years customer service experience
-- 14 years small business management/accounting/bookkeeping experience
+- 30+ years tinkering experience
+- 30+ years Linux experience
+- 25+ years Web experience
+- 25+ years database experience
+- 17+ years customer service experience
+- 15+ years small business management/accounting/bookkeeping experience
 
 # &lt;DEVOPS /&gt;
 
 - AWS
+- Cloudflare
 - Digital Ocean
 - Heroku
 - Google Cloud
 - Firebase/Supabase/Pocketbase
 - Vercel
 - Netlify
-- Fleek
+- Render
+- Fly
 - Hostgator, Bluehost, Siteground, miscellaneous shared/VPS/dedicated providers
 
 ---
